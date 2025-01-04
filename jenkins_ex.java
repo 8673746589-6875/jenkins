@@ -1,1 +1,1 @@
-System.out.printLn("This is my first jenkins file")
+System.out.println("This is my first jenkins file");
